@@ -30,11 +30,11 @@ php -S localhost:8080 <br>
 <em> /uma-api,</em> <br>
 {
     "message": "Uma API (Application Programming Interface) é um conjunto de regras que permite a comunicação entre sistemas diferentes."
-}
+} <br>
 <em> /codigos, </em> <br>
  {
     "message": "Os códigos de status HTTP são usados para indicar o resultado de uma requisição, como 200 (OK), 404 (Not Found) e 500 (Internal Server Error)."
-}
+} <br>
 <em> /erro </em> <br>
 {
     "error": "Não encontrado"
