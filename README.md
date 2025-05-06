@@ -1,9 +1,9 @@
 # dsw_ava_2
 
 **Nome Completo**
-Karina Meier
+Karina Meier <br>
 **Data**  
-06/05/2025
+06/05/2025 <br>
 **Unidade Curricular**
 Desenvolver Codigos Web
 ## O que é uma API REST?
@@ -23,10 +23,10 @@ Os códigos de status HTTP indicam o resultado de uma requisição:
 ## Como testar este projeto?
 
 **Instalar as dependências:**
-composer require slim/slim slim/psr7
+composer require slim/slim slim/psr7 <br>
 **Iniciar o servidor do PHP:**
-php -S localhost:8080
-**Testar os Endpoints:**
+php -S localhost:8080 <br>
+**Testar os Endpoints:** <br>
 <em> /uma-api,</em>
 {
     "message": "Uma API (Application Programming Interface) é um conjunto de regras que permite a comunicação entre sistemas diferentes."
